@@ -18,5 +18,5 @@ jobs:
       - name: Log In To AnyDesk
         run: cmd /c show.bat
 
-      - name: Time Counter
+      - name: Thời Gian Hoạt Động
         run: python time.py
